@@ -7,4 +7,6 @@ Cette distribution, par exemple déployée chez o2switch, requiert d'effectruer 
 La distribution "full" ajoute au zip du simple le répertoire node_modules.
 
  test.html est un simle test "client" ne demanadant pas de server HTTP pour le servir.
+
+ Cloné P le 15 avril 2021
  
